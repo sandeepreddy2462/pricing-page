@@ -110,6 +110,12 @@ ul{
   margin-bottom: 20px;
   text-align: center;
 }
+#currency-select {
+  border: none;
+  border-radius: 3px;
+  background-color: #18be9e;
+  color: white;
+}
 .switch-wrapper{
     position: relative;
     display: flex;
